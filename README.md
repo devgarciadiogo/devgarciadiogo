@@ -20,4 +20,7 @@ tenho 19, atualmente estou cursando Ciência da Computação, sou apaixonado por
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=devgarciadiogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[Snake animation](https://github.com/devgarciadiogo/devgarciadiogo/blob/output/github-contribution-grid-snake.svg)
+<div align="left">
+  <a href="https://github.com/devgarciadiogo/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
