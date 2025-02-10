@@ -34,7 +34,6 @@
 
 📩 **E-mail:** diogogarcia@email.com  
 🔗 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/diogogarciadev)  
-🚀 **Portfólio:** [Meus Projetos](https://github.com/devgarciadiogo)  
 
 ---
 
