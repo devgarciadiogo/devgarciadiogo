@@ -39,4 +39,4 @@
 ---
 
 🔥 **Confira meus projetos e sinta-se à vontade para contribuir!**  
-💬 Se quiser trocar uma ideia sobre tecnologia, desenvolvimento ou carreira, estou à disposição! 😃  
+💬 Se quiser trocar uma ideia sobre tecnologia, desenvolvimento ou carreira, estou à disposição!
