@@ -2,8 +2,8 @@
 ### 🚀 Bem-vindo ao meu perfil no GitHub!  
 
 💡 Sou apaixonado por tecnologia, programação e desafios que exigem soluções criativas.  
-📚 Atualmente, curso **Ciência da Computação** e busco sempre aprimorar minhas habilidades no **desenvolvimento Full Stack**.  
-💻 Tenho experiência com **Front-End** e **Back-End**, e gosto de transformar ideias em código funcional e eficiente.  
+📚 Atualmente, curso **Ciência da Computação** e busco sempre aprimorar minhas habilidades no **desenvolvimento Web e Mobile**.  
+💻 Tenho experiência com **HTML, CSS e JS** e **Python**, e gosto de transformar ideias em código funcional e eficiente.  
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 🌎 **Onde me encontrar?**  
 
-📩 **E-mail:** diogogarcia@email.com  
+📩 **E-mail:** diogogarcia0511@gmail.com  
 🔗 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/diogogarciadev)  
 
 ---
