@@ -1,13 +1,12 @@
-# 👋 Olá, me chamo **Diogo Garcia**!  
-### 🚀 Bem-vindo ao meu perfil no GitHub!  
+# 👋Hello, my name is Diogo Garcia**!  
+### 🚀Welcome to my GitHub profile!  
 
-💡 Sou apaixonado por tecnologia, programação e desafios que exigem soluções criativas.  
-📚 Atualmente, curso **Ciência da Computação** e busco sempre aprimorar minhas habilidades no **desenvolvimento Web e Mobile**.  
-💻 Tenho experiência com **HTML, CSS e JS** e **Python**, e gosto de transformar ideias em código funcional e eficiente.  
-
+💡 I'm passionate about technology, programming and challenges that require creative solutions.  
+📚 I am currently studying **Computer Science** and I am always looking to improve my skills in **Web and Mobile development**.  
+💻 I have experience with **HTML, CSS, JS, ReactJS and NodeJS**, and I enjoy turning ideas into functional and efficient code.
 ---
 
-## 🛠️ **Tecnologias & Ferramentas**  
+## 🛠️ **Technologies & Tools**  
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -23,7 +22,7 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**  
+## 📊 **GitHub Stats**  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgarciadiogo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -32,12 +31,12 @@
 
 ---
 
-## 🌎 **Onde me encontrar?**  
+## 🌎 **Where to find me?**  
 
 📩 **E-mail:** diogogarcia0511@gmail.com  
 🔗 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/diogogarciadev)  
 
 ---
 
-🔥 **Confira meus projetos e sinta-se à vontade para contribuir!**  
-💬 Se quiser trocar uma ideia sobre tecnologia, desenvolvimento ou carreira, estou à disposição!
+🔥 **Check out my projects and feel free to contribute!**  
+💬 If you want to exchange ideas about technology, development or career, I'm available!
