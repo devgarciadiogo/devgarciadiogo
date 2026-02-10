@@ -37,19 +37,22 @@
 
 ## Contatos:
 <div>
-<a href = "diogogarcia0511@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:diogogarcia0511@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/diogogarciadev/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ---
 
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgarciadiogo&layout=compact&langs_count=7&theme=dracula" alt="Top Languages">
+## 📊 GitHub Stats
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=devgarciadiogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devgarciadiogo&show_icons=true&theme=dracula" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgarciadiogo&layout=compact&theme=dracula" />
+</div>
+
 
 ---
 
