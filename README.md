@@ -8,41 +8,52 @@
 ## 🧑‍💻 Sobre mim
 
 - 🔭 Atualmente trabalho em uma loja de informática como atendente  
-- 🎯 Objetivo: Back-End Java em bancos, fintechs ou empresas de tecnologia  
-- 🌱 Estudando:
+- 🎯 Objetivo: Atuar como desenvolvedor Back-End em bancos, fintechs ou empresas de tecnologia  
+- 🌱 Estudando atualmente:
   - Java
   - Spring Boot
   - JDBC
   - APIs REST
-  - SQL
-- 📚 Alura + projetos práticos
-- ⚡ Gamer 🎮 | Rock 🤘 | Animes & Doramas 🍿
+  - Banco de Dados SQL
+- 📚 Estudando através da Alura e projetos práticos  
+- ⚡ Curiosidades: Gamer 🎮 | Rock 🤘 | Animes e Doramas 🍿
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div style="display: inline_block"><br>
 
----
+<img align="center" alt="Java" height="45" width="45"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-## 📊 GitHub Stats
+<img align="center" alt="Spring" height="45" width="45"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgarciadiogo&show_icons=true&theme=dracula)
+<img align="center" alt="MySQL" height="45" width="45"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgarciadiogo&layout=compact&theme=dracula)
+<img align="center" alt="Git" height="45" width="45"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="center" alt="GitHub" height="45" width="45"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogogarcia0511@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogogarciadev/)
+<div>
+  <a href="mailto:diogogarcia0511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/diogogarciadev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-⭐ Sempre aberto a networking e colaboração em projetos!
+⭐ Sempre aberto a networking e colaboração em projet
