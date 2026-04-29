@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** na Universidade Estácio de Sá (7º período), desenvolvedor back-end em formação, localizado em **Niterói, RJ**. Tenho foco no ecossistema **Java/Spring Boot** e estou construindo uma base técnica sólida para atuar profissionalmente como desenvolvedor back-end.
+Sou estudante de **Ciência da Computação** na Universidade Estácio de Sá (7º período), desenvolvedor back-end em formação, baseado em **Niterói, RJ**. Tenho foco no ecossistema **Java/Spring Boot** e estou construindo uma base técnica sólida para atuar profissionalmente como desenvolvedor back-end.
 
 Atualmente estou evoluindo em:
 - ☕ **Java** — OOP, Streams, Collections, boas práticas
@@ -114,18 +114,18 @@ Projeto pessoal que nasceu em Java puro e está sendo evoluído progressivamente
 
 <p>
   <a href="https://linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:SEU-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devgarciadiogo&color=orange&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=devgarciadiogo&color=orange&style=for-the-badge&label=VISITAS" alt="profile views" />
 </p>
 
 <p align="center"><em>"Código limpo não é escrito seguindo um conjunto de regras. Você sabe que está escrevendo código limpo quando cada rotina que você lê é praticamente o que você esperava." — Robert C. Martin</em></p>
